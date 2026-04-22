@@ -1,5 +1,5 @@
 
-# 📝 To-Do App (Task 3)
+# 📝 To-Do App 
 
 🚀 This is a Full Stack To-Do Application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js).
 
